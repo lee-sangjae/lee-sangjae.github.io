@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\docs\\_docs",
+    "\\test\\_pages",
+    "\\_data",
+    "\\_pages",
     "\\_posts"
   ],
-  "SelectedNode": "\\_config.yml",
+  "SelectedNode": "\\_pages\\404.md",
   "PreviewInSolutionExplorer": false
 }
